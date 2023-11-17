@@ -1,1 +1,2 @@
 ini adalah file 1
+penambahan teks di remote repo
